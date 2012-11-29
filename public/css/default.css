@@ -1,0 +1,17 @@
+body {
+	font-family: arial;
+	color:blue;
+}
+#username {
+	color:red;
+	font-size: 24px;
+	margin-left:500px;
+	text-decoration:underline;
+}
+#container {
+	border-style:solid;
+	border-width:1px;
+	width:600px;
+	margin:auto;
+	color:black;
+}
